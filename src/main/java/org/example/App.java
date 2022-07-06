@@ -32,7 +32,6 @@ public class App {
 
             peopleList.add(p);
         }
-
         space.setPeopleList(peopleList);
 
         System.out.println(space);
