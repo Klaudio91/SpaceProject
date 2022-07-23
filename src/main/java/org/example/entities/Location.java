@@ -1,9 +1,10 @@
 package org.example.entities;
-import jakarta.persistence.*;
+
+import javax.persistence.*;
 
 
 @Entity
-@Table (name="Location")
+@Table(name="Location")
 public class Location {
 
 
